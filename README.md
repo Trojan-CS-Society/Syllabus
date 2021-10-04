@@ -1,1 +1,2 @@
-# Syllabus
+# Initial page
+
